@@ -1,0 +1,43 @@
+.first{
+    font-size:  50px; 
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    color: black;
+    text-shadow: 2px 2px 4px #d8d8d8; 
+    text-align: center;
+    border: 4px solid #ffffff;
+    background: linear-gradient(to right,#166fd4, #e0e4e3);
+    border-radius: 32px;
+
+
+}
+.pp{
+    text-align: left;
+    font-family:Gill Sans, sans-serif ;
+    font-size: 30px;
+    text-transform: capitalize;
+    
+}
+.name{
+    text-align: center;
+}
+
+.ww{
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 30px;
+    min-width: 100px;
+    box-shadow: 0 0 20px rgba(15, 119, 167, 0.15);
+    width: 40%;
+}
+.ee{
+    color: #166fd4;
+}
+.active-row{
+    color: #166fd4;
+}
+.qq{
+    color: #166fd4;
+}
+
+
+    
